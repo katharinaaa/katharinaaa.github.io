@@ -1,0 +1,25 @@
+body {background-color:#f5f5dc; font-family:Arial, sans-serif; margin: 0 auto; max-width: 60em;}
+
+h1 {font-size:40px; color:#07641A; text-align:center}
+
+h2 {font-size:30px; color:#F9AF01;}
+
+h3 {font-size:20px; font-style: italic; color:#F68B00;}
+
+p {text-align: justify; margin: 10px 9px 8px 7px;}
+
+.links {width: 300px; height: 400px; float: left; margin-right: 10px;}
+
+div p {font-size: 20px; margin-bottom: 280px;}
+
+article {background: #F9AF01; border-color: #F9AF01;}
+
+.mitte {width: 950px; height: 400px; margin-top: 30px; margin-bottom: 30px;}
+
+div ol {margin-top: 20px; margin-left: 350px;}
+
+.Überschrift {margin-top: 20px; margin-left:350px;}
+
+.zentral {margin-left: 220px;}
+
+
